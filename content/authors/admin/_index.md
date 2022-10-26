@@ -1,7 +1,7 @@
 ---
 title: Kevin van Liebergen
 role: PhD Student in Malware Analysis
-avatar_filename: a.jpeg
+avatar_filename: _m3a1033_small.jpg
 bio: My research interests include malware analysis, reverse engineering,
   exploiting, and web security.
 interests:
