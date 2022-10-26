@@ -1,7 +1,7 @@
 ---
 title: Kevin van Liebergen
 role: PhD Student in Malware Analysis
-avatar_filename: _m3a1042.jpg
+avatar_filename: a.jpeg
 bio: My research interests include malware analysis, reverse engineering,
   exploiting, and web security.
 interests:
@@ -50,6 +50,8 @@ email: ""
 ---
 Hi! I am a cybersecurity passionate with a computer engineering and a master in Cybersecurity at the University of Alcałá. I am currently a PhD Student at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
 
-I have experience as system administrator working with the philosophy of Infrastructure as code (Iac) with tools such as SaltStack, Terraform and Docker and I have worked with hosting clouds such as Google Cloud Platform and Digital Ocean. 
+My research focuses on the design, analysis, and implementation of threat hunting approaches and malware analysis. I like to play CTFs, and I am really interested in exploiting, reversing and web challenges.
 
-Also, I like to play CTFs.
+I have experience as system administrator working with the philosophy of Infrastructure as code (IaC) with tools such as SaltStack, Terraform and Docker and I have worked with hosting clouds such as Google Cloud Platform and Digital Ocean. 
+
+I don't pass the Turing test in the mornings.
