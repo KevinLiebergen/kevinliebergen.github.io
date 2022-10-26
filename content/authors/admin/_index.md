@@ -7,8 +7,8 @@ bio: My research interests include malware analysis, reverse engineering,
 interests:
   - Malware Analysis
   - ReverseEngineering
-  - exploiting
-  - web securit
+  - Exploiting
+  - Web security
 social:
   - icon: envelope
     icon_pack: fas
@@ -48,9 +48,8 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+Hi! I am a cybersecurity passionate with a computer engineering and a master in Cybersecurity at the University of Alcałá. I am currently a PhD Student at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have experience as system administrator working with the philosophy of Infrastructure as code (Iac) with tools such as SaltStack, Terraform and Docker and I have worked with hosting clouds such as Google Cloud Platform and Digital Ocean. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Also, I like to play CTFs.
