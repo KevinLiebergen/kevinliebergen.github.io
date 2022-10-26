@@ -1,35 +1,36 @@
 ---
-title: kevin van Liebergen
-role: PhD Student in Malware Analysis at IMDEA Software Institute
+title: Kevin van Liebergen
+role: PhD Student in Malware Analysis
 avatar_filename: _m3a1042.jpg
 bio: My research interests include malware analysis, reverse engineering,
   exploiting, and web security.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Malware Analysis
+  - ReverseEngineering
+  - exploiting
+  - web securit
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    icon_pack: ai
+    link: https://twitter.com/klieb_
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=MdYPFKUAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/KevinLiebergen/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kevin-van-liebergen-avila/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IMDEA Software Institute
+    url: https://software.imdea.org/
 education:
   courses:
     - course: PhD in Malware Analysis
