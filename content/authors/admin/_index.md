@@ -6,7 +6,7 @@ bio: My research interests include malware analysis, reverse engineering,
   exploiting, and web security.
 interests:
   - Malware Analysis
-  - ReverseEngineering
+  - Reverse Engineering
   - Exploiting
   - Web security
 social:
