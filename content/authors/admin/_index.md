@@ -46,7 +46,7 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: kevin.liebergen@imdea.org
 ---
 Hi! I am a cybersecurity passionate with a computer engineering and a master in Cybersecurity at the University of Alcałá. I am currently a PhD Student at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
 
