@@ -1,0 +1,65 @@
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Experience
+subtitle:
+
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: PhD Student
+    company: IMDEA Software Institute
+    company_url: 'https://software.imdea.org/'
+    company_logo: imdea
+    location: Madrid
+    date_start: '2022-09-01'
+    date_end: ''
+    description: |2-
+        * Malware Analysis
+
+  - title: Research Intern
+    company: IMDEA Software Institute
+    company_url: 'https://software.imdea.org/'
+    company_logo: imdea
+    location: Madrid
+    date_start: '2021-05-01'
+    date_end: '2022-08-31'
+    description: Full-time internship at the IMDEA Software Institute under the supervision of Prof. Juan Caballero in collaboration with NortonLifeLock Research Group to work on the development of a Threat Hunting tool using the VirusTotal file feed.
+
+  - title: Researcher
+    company: Cátedra ISDEFE-UAH
+    company_url: 'https://www.fgua.es/catedras-empresa/catedra-isdefe-ciberseguridad-tic-avance-digital/'
+    company_logo: catedraisdefe
+    location: Madrid
+    date_start: '2018-09-01'
+    date_end: '2021-04-30'
+    description: Foresight reports for homomorphic encryption and anonymization networks (Deep Web, Dark Web, Dark Net). Static code analysis reports. Teaching course on networs and forensics on drones.  Knowledge about server virtualization with VMware vSphere.
+
+  - title: System Administrator
+    company: Making Science
+    company_url: 'https://www.makingscience.com/'
+    company_logo: makingscience
+    location: Madrid
+    date_start: '2019-09-01'
+    date_end: '2020-03-30'
+    description: "Administration and management of infrastructures and services: Google Cloud Platform and on-premises. configuration and automation of high-availability system with the philosophy of Infrastructure as code (IaC) with tools such asSaltStack, Terraform and Docker."
+
+
+design:
+  columns: '2'
+---
