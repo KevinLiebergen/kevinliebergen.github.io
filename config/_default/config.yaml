@@ -30,6 +30,7 @@ module:
 ## ADVANCED
 ############################
 
+publishDir: "docs"
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
@@ -44,7 +45,8 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  # home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS] 
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
