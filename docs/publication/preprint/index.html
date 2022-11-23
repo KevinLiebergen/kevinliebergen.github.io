@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: November 3, 2022 --><html lang="en-us" >
+<!-- Last Published: November 23, 2022 --><html lang="en-us" >
 
 
 <head>
@@ -300,23 +300,24 @@ We then explore how to perform threat hunting at scale by investigating scalable
 
 
   
+  
 
 
 
 
 
 
-<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:card" content="summary" />
 
   <meta property="twitter:site" content="@wowchemy" />
   <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://kevinliebergen.github.io/publication/preprint/featured.jpg" />
+<meta property="twitter:image" content="https://kevinliebergen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Kevin van Liebergen" />
 <meta property="og:url" content="https://kevinliebergen.github.io/publication/preprint/" />
 <meta property="og:title" content="A Deep Dive into VirusTotal: Characterizing and Clustering a Massive File Feed | Kevin van Liebergen" />
 <meta property="og:description" content="Online scanners analyze user-submitted files with a large number of security tools and provide access to the analysis results. As the most popular online scanner, VirusTotal (VT) is often used for determining if samples are malicious, labeling samples with their family, hunting for new threats, and collecting malware samples. We analyze 328M VT reports for 235M samples collected for one year through the VT file feed. We use the reports to characterize the VT file feed in depth and compare it with the telemetry of a large security vendor. We answer questions such as How diverse is the feed? Does it allow building malware datasets for different filetypes? How fresh are the samples it provides? What is the distribution of malware families it sees? Does that distribution really represent malware on user devices?
 
-We then explore how to perform threat hunting at scale by investigating scalable approaches that can produce high purity clusters on the 235M feed samples. We investigate three clustering approaches: hierarchical agglomerative clustering (HAC), a more scalable HAC variant for TLSH digests (HAC-T), and a simple feature value grouping (FVG). Our results show that HAC-T and FVG using selected features produce high precision clusters on ground truth datasets. However, only FVG scales to the daily influx of samples in the feed. Moreover, FVG takes 15 hours to cluster the whole dataset of 235M samples. Finally, we use the produced clusters for threat hunting, namely for detecting 190K samples thought to be benign (i.e., with zero detections) that may really be malicious because they belong to 29K clusters where most samples are detected as malicious." /><meta property="og:image" content="https://kevinliebergen.github.io/publication/preprint/featured.jpg" /><meta property="og:locale" content="en-us" />
+We then explore how to perform threat hunting at scale by investigating scalable approaches that can produce high purity clusters on the 235M feed samples. We investigate three clustering approaches: hierarchical agglomerative clustering (HAC), a more scalable HAC variant for TLSH digests (HAC-T), and a simple feature value grouping (FVG). Our results show that HAC-T and FVG using selected features produce high precision clusters on ground truth datasets. However, only FVG scales to the daily influx of samples in the feed. Moreover, FVG takes 15 hours to cluster the whole dataset of 235M samples. Finally, we use the produced clusters for threat hunting, namely for detecting 190K samples thought to be benign (i.e., with zero detections) that may really be malicious because they belong to 29K clusters where most samples are detected as malicious." /><meta property="og:image" content="https://kevinliebergen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -352,10 +353,6 @@ We then explore how to perform threat hunting at scale by investigating scalable
     "@id": "https://kevinliebergen.github.io/publication/preprint/"
   },
   "headline": "A Deep Dive into VirusTotal: Characterizing and Clustering a Massive File Feed",
-  
-  "image": [
-    "https://kevinliebergen.github.io/publication/preprint/featured.jpg"
-  ],
   
   "datePublished": "2017-01-01T00:00:00Z",
   "dateModified": "2022-10-31T00:00:00Z",
@@ -828,25 +825,18 @@ We then explore how to perform threat hunting at scale by investigating scalable
 
 
 
-
-
-
-
-
-
-
-
+  
 
   
   
-
-
+  
 <div class="article-container pt-3">
   <h1>A Deep Dive into VirusTotal: Characterizing and Clustering a Massive File Feed</h1>
 
   
 
   
+    
 
 
 <div class="article-metadata">
@@ -891,7 +881,7 @@ We then explore how to perform threat hunting at scale by investigating scalable
 
 </div>
 
-  
+    
 
 
 
@@ -941,14 +931,7 @@ We then explore how to perform threat hunting at scale by investigating scalable
 </div>
 
 
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
-  <div style="position: relative">
-    <img src="/publication/preprint/featured_hu559a5add5185b02575aa8333502ab2cc_220813_720x2500_fit_q75_h2_lanczos.webp" width="720" height="480" alt="" class="featured-image">
-    
-  </div>
+  
 </div>
 
 

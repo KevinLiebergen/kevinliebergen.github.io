@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Kevin van Liebergen</title>
-    <link>https://kevinliebergen.github.io/project/</link>
-      <atom:link href="https://kevinliebergen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Selenium | Kevin van Liebergen</title>
+    <link>https://kevinliebergen.github.io/tag/selenium/</link>
+      <atom:link href="https://kevinliebergen.github.io/tag/selenium/index.xml" rel="self" type="application/rss+xml" />
+    <description>Selenium</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kevinliebergen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>https://kevinliebergen.github.io/project/</link>
+      <title>Selenium</title>
+      <link>https://kevinliebergen.github.io/tag/selenium/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
 &lt;li&gt;Products saved to a database with their respective fields.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Privilege escalation tool</title>
-      <link>https://kevinliebergen.github.io/project/priv-escalation/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://kevinliebergen.github.io/project/priv-escalation/</guid>
-      <description></description>
     </item>
     
   </channel>
