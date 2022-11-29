@@ -52,6 +52,6 @@ Hi! I am a cybersecurity passionate with a computer engineering and a master in 
 
 My research focuses on the design, analysis, and implementation of threat hunting approaches and malware analysis. I like to play CTFs, and I am really interested in exploiting, reversing and web challenges.
 
-I have experience as system administrator working with the philosophy of Infrastructure as code (IaC) with tools such as SaltStack, Terraform and Docker and I have worked with hosting clouds such as Google Cloud Platform and Digital Ocean. 
+I have experience as system administrator and I have worked with hosting clouds such as Google Cloud Platform and Digital Ocean. 
 
 I don't pass the Turing test in the mornings.
