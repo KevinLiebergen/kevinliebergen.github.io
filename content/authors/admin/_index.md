@@ -35,20 +35,20 @@ education:
   courses:
     - course: PhD in Malware Analysis
       institution: IMDEA Software Institute
-      year: 2022
+      year: WIP
     - course: MSc in Cybersecurity
       institution: Universidad de Alcalá
-      year: 2020
+      year: 2022
     - course: BSc in Computer Engineering
       institution: Universidad de Alcalá
-      year: 2014
+      year: 2020
 superuser: true
 last_name: van Liebergen
 highlight_name: true
 first_name: Kevin
 email: kevin.liebergen@imdea.org
 ---
-Hi! I am a cybersecurity passionate with a computer engineering and a master in Cybersecurity at the University of Alcałá. I am currently a PhD Student at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
+Hi! I am a cybersecurity passionate with a computer engineering and a master in Cybersecurity at the Universidad de Alcałá. I am currently a PhD Student at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
 
 My research focuses on the design, analysis, and implementation of threat hunting approaches and malware analysis. I like to play CTFs, and I am really interested in exploiting, reversing and web challenges.
 
