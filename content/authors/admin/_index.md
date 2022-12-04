@@ -48,9 +48,9 @@ highlight_name: true
 first_name: Kevin
 email: kevin.liebergen@imdea.org
 ---
-Hi! I am a cybersecurity passionate with a computer engineering and a master in Cybersecurity at the Universidad de Alcałá. I am currently a PhD Student at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
+Hi! I am a cybersecurity passionate with a computer engineering and a master in Cybersecurity at the Universidad de Alcalá. I am currently a PhD Student at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
 
-My research focuses on the design, analysis, and implementation of threat hunting approaches and malware analysis. I like to play CTFs, and I am really interested in exploiting, reversing and web challenges.
+My research focuses on the design, analysis, and implementation of threat hunting approaches and malware analysis. I like to play CTFs and I am really interested in exploiting, reversing, and web challenges.
 
 I have experience as system administrator and I have worked with hosting clouds such as Google Cloud Platform and Digital Ocean. 
 
