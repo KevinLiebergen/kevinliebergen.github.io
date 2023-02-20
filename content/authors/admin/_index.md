@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: My research interests include malware analysis, reverse engineering,
   and exploiting.
 interests:
-  - Malware Analysis
-  - Reverse Engineering
+  - Malware analysis
+  - Reverse engineering
   - Exploiting
   - Web security
 social:
@@ -48,7 +48,7 @@ highlight_name: true
 first_name: Kevin
 email: kevin.liebergen@imdea.org
 ---
-Hi! I am a computer engineer passionate for cybersecurity, I have a master in Cybersecurity at the Universidad de Alcalá. I am currently a PhD Student in Systems security at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
+Hi! I am a computer engineer passionate about cybersecurity. I have a master in Cybersecurity at the Universidad de Alcalá and I am currently a PhD Student in systems security at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
 
 My research focuses on the design, analysis, and implementation of threat hunting approaches and malware analysis. I like to play CTFs and I am really interested in exploiting, reversing, and web challenges.
 
