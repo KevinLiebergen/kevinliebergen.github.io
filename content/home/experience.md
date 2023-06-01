@@ -39,7 +39,7 @@ experience:
     location: Madrid
     date_start: '2021-05-01'
     date_end: '2022-08-31'
-    description: Full-time internship at the IMDEA Software Institute under the supervision of Prof. Juan Caballero in collaboration with NortonLifeLock Research Group to work on the development of a Threat Hunting tool using the VirusTotal file feed.
+    description: Full-time internship at the IMDEA Software Institute under the supervision of Prof. Juan Caballero in collaboration with NortonLifeLock Research Group to work on the development of a threat hunting tool using the VirusTotal file feed.
 
   - title: Researcher
     company: Cátedra ISDEFE-UAH
@@ -48,7 +48,7 @@ experience:
     location: Madrid
     date_start: '2018-09-01'
     date_end: '2021-04-30'
-    description: Foresight reports for homomorphic encryption and anonymization networks (Deep Web, Dark Web, Dark Net). Static code analysis reports. Teaching course on networs and forensics on drones.  Knowledge about server virtualization with VMware vSphere.
+    description: Foresight reports for homomorphic encryption and anonymization networks (Deep Web, Dark Web, Dark Net). Static code analysis reports. Teaching course on networks and forensics on drones.  Knowledge about server virtualization with VMware vSphere.
 
   - title: System Administrator
     company: Making Science
@@ -57,7 +57,7 @@ experience:
     location: Madrid
     date_start: '2019-09-01'
     date_end: '2020-03-30'
-    description: "Administration and management of infrastructures and services: Google Cloud Platform and on-premises. configuration and automation of high-availability system with the philosophy of Infrastructure as code (IaC) with tools such asSaltStack, Terraform and Docker."
+    description: "Administration and management of infrastructures and services: Google Cloud Platform and on-premises. Configuration and automation of high-availability system with the philosophy of Infrastructure as code (IaC) with tools such as SaltStack, Terraform and Docker."
 
 
 design:
