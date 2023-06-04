@@ -10,10 +10,10 @@ headless: true
 weight: 70
 
 title: Gallery
-subtitle:
+subtitle: Not everything was going to be researching..
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 {{< gallery album="demo" >}}
