@@ -13,7 +13,7 @@ title: Gallery
 subtitle: Not everything was going to be researching..
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 {{< gallery album="demo" >}}
