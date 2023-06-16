@@ -6,7 +6,7 @@ authors:
 - Platon Kotzias
 - Chris Gates
 date: "2023-6-1T00:00:00Z"
-doi: ""
+doi: "10.1007/978-3-031-35504-2_8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-01T00:00:00Z"
