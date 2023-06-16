@@ -272,12 +272,14 @@
 
   
 
-<meta name="description" content="Bachelor&#39;s degree thesis titled &#39;Análisis de procedimientos de escalada de privilegios basado en el framework MITRE ATT&amp;CK&#39; for the Computer Engineering degree from the University of Alcalá." />
+<meta name="description" content="Online scanners analyze user-submitted files with a large number of security tools and provide access to the analysis results. As the most popular online scanner, VirusTotal (VT) is often used for determining if samples are malicious, labeling samples with their family, hunting for new threats, and collecting malware samples. We analyze 328M VT reports for 235M samples collected for one year through the VT file feed. We use the reports to characterize the VT file feed in depth and compare it with the telemetry of a large security vendor. We answer questions such as How diverse is the feed? Does it allow building malware datasets for different filetypes? How fresh are the samples it provides? What is the distribution of malware families it sees? Does that distribution really represent malware on user devices?
+
+We then explore how to perform threat hunting at scale by investigating scalable approaches that can produce high purity clusters on the 235M feed samples. We investigate three clustering approaches: hierarchical agglomerative clustering (HAC), a more scalable HAC variant for TLSH digests (HAC-T), and a simple feature value grouping (FVG). Our results show that HAC-T and FVG using selected features produce high precision clusters on ground truth datasets. However, only FVG scales to the daily influx of samples in the feed. Moreover, FVG takes 15 hours to cluster the whole dataset of 235M samples. Finally, we use the produced clusters for threat hunting, namely for detecting 190K samples thought to be benign (i.e., with zero detections) that may really be malicious because they belong to 29K clusters where most samples are detected as malicious." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://kevinliebergen.github.io/project/priv-escalation/" />
-<link rel="canonical" href="https://kevinliebergen.github.io/project/priv-escalation/" />
+<link rel="alternate" hreflang="en-us" href="https://kevinliebergen.github.io/publication/conference-paper/" />
+<link rel="canonical" href="https://kevinliebergen.github.io/publication/conference-paper/" />
 
 
 
@@ -308,20 +310,22 @@
 
   <meta property="twitter:site" content="@wowchemy" />
   <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://kevinliebergen.github.io/project/priv-escalation/featured.png" />
+<meta property="twitter:image" content="https://kevinliebergen.github.io/publication/conference-paper/featured.jpg" />
 <meta property="og:site_name" content="Kevin van Liebergen" />
-<meta property="og:url" content="https://kevinliebergen.github.io/project/priv-escalation/" />
-<meta property="og:title" content="Privilege escalation tool | Kevin van Liebergen" />
-<meta property="og:description" content="Bachelor&#39;s degree thesis titled &#39;Análisis de procedimientos de escalada de privilegios basado en el framework MITRE ATT&amp;CK&#39; for the Computer Engineering degree from the University of Alcalá." /><meta property="og:image" content="https://kevinliebergen.github.io/project/priv-escalation/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://kevinliebergen.github.io/publication/conference-paper/" />
+<meta property="og:title" content="A Deep Dive into the VirusTotal File Feed | Kevin van Liebergen" />
+<meta property="og:description" content="Online scanners analyze user-submitted files with a large number of security tools and provide access to the analysis results. As the most popular online scanner, VirusTotal (VT) is often used for determining if samples are malicious, labeling samples with their family, hunting for new threats, and collecting malware samples. We analyze 328M VT reports for 235M samples collected for one year through the VT file feed. We use the reports to characterize the VT file feed in depth and compare it with the telemetry of a large security vendor. We answer questions such as How diverse is the feed? Does it allow building malware datasets for different filetypes? How fresh are the samples it provides? What is the distribution of malware families it sees? Does that distribution really represent malware on user devices?
+
+We then explore how to perform threat hunting at scale by investigating scalable approaches that can produce high purity clusters on the 235M feed samples. We investigate three clustering approaches: hierarchical agglomerative clustering (HAC), a more scalable HAC variant for TLSH digests (HAC-T), and a simple feature value grouping (FVG). Our results show that HAC-T and FVG using selected features produce high precision clusters on ground truth datasets. However, only FVG scales to the daily influx of samples in the feed. Moreover, FVG takes 15 hours to cluster the whole dataset of 235M samples. Finally, we use the produced clusters for threat hunting, namely for detecting 190K samples thought to be benign (i.e., with zero detections) that may really be malicious because they belong to 29K clusters where most samples are detected as malicious." /><meta property="og:image" content="https://kevinliebergen.github.io/publication/conference-paper/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2020-10-06T00:00:00&#43;00:00"
+      content="2017-01-01T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2020-10-06T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-10-31T00:00:00&#43;00:00">
   
 
 
@@ -345,16 +349,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://kevinliebergen.github.io/project/priv-escalation/"
+    "@id": "https://kevinliebergen.github.io/publication/conference-paper/"
   },
-  "headline": "Privilege escalation tool",
+  "headline": "A Deep Dive into the VirusTotal File Feed",
   
   "image": [
-    "https://kevinliebergen.github.io/project/priv-escalation/featured.png"
+    "https://kevinliebergen.github.io/publication/conference-paper/featured.jpg"
   ],
   
-  "datePublished": "2020-10-06T00:00:00Z",
-  "dateModified": "2020-10-06T00:00:00Z",
+  "datePublished": "2017-01-01T00:00:00Z",
+  "dateModified": "2022-10-31T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -369,7 +373,7 @@
       "url": "https://kevinliebergen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Bachelor's degree thesis titled 'Análisis de procedimientos de escalada de privilegios basado en el framework MITRE ATT\u0026CK' for the Computer Engineering degree from the University of Alcalá."
+  "description": "Online scanners analyze user-submitted files with a large number of security tools and provide access to the analysis results. As the most popular online scanner, VirusTotal (VT) is often used for determining if samples are malicious, labeling samples with their family, hunting for new threats, and collecting malware samples. We analyze 328M VT reports for 235M samples collected for one year through the VT file feed. We use the reports to characterize the VT file feed in depth and compare it with the telemetry of a large security vendor. We answer questions such as How diverse is the feed? Does it allow building malware datasets for different filetypes? How fresh are the samples it provides? What is the distribution of malware families it sees? Does that distribution really represent malware on user devices?\n\nWe then explore how to perform threat hunting at scale by investigating scalable approaches that can produce high purity clusters on the 235M feed samples. We investigate three clustering approaches: hierarchical agglomerative clustering (HAC), a more scalable HAC variant for TLSH digests (HAC-T), and a simple feature value grouping (FVG). Our results show that HAC-T and FVG using selected features produce high precision clusters on ground truth datasets. However, only FVG scales to the daily influx of samples in the feed. Moreover, FVG takes 15 hours to cluster the whole dataset of 235M samples. Finally, we use the produced clusters for threat hunting, namely for detecting 190K samples thought to be benign (i.e., with zero detections) that may really be malicious because they belong to 29K clusters where most samples are detected as malicious."
 }
 </script>
 
@@ -391,7 +395,7 @@
 
 
   
-  <title>Privilege escalation tool | Kevin van Liebergen</title>
+  <title>A Deep Dive into the VirusTotal File Feed | Kevin van Liebergen</title>
 
   
   
@@ -411,7 +415,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="c97123b57a685a55175c5a8e860f8bc8" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="69425fb10d4db090cfbd46854715582c" >
 
   
   
@@ -799,7 +803,16 @@
     
     
 
-    <article class="article article-project">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
 
   
 
@@ -829,7 +842,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Privilege escalation tool</h1>
+  <h1>A Deep Dive into the VirusTotal File Feed</h1>
 
   
 
@@ -840,6 +853,19 @@
 
   
   
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Kevin van Liebergen</span>, <span >
+      Juan Caballero</span>, <span >
+      Platon Kotzias</span>, <span >
+      Chris Gates</span>
+  </div>
+  
+  
 
   
   <span class="article-date">
@@ -847,7 +873,7 @@
     
       
     
-    Oct 6, 2020
+    October, 2022
   </span>
   
 
@@ -872,8 +898,6 @@
 
 <div class="btn-links mb-3">
   
-  <a class="btn btn-outline-primary my-1" href="https://github.com/KevinLiebergen/priv-escalation" target="_blank" rel="noopener">Go to Project Site</a>
-  
   
 
 
@@ -887,6 +911,16 @@
 
 
 
+<a class="btn btn-outline-primary btn-page-header" href="/publication/conference-paper/conference-paper.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/conference-paper/cite.bib">
+  Cite
+</a>
 
 
 
@@ -895,8 +929,7 @@
 
 
 
-
-
+  
 
 
 
@@ -909,9 +942,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 578px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
   <div style="position: relative">
-    <img src="/project/priv-escalation/featured_hu1c86d970b0c2b80a138417b310a468b5_139262_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="578" alt="" class="featured-image">
+    <img src="/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_720x2500_fit_q75_h2_lanczos.webp" width="720" height="480" alt="" class="featured-image">
     
   </div>
 </div>
@@ -920,9 +953,50 @@
 
   <div class="article-container">
 
-    <div class="article-style">
-      
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract"><p>Online scanners analyze user-submitted files with a large number of security tools and provide access to the analysis results. As the most popular online scanner, VirusTotal (VT) is often used for determining if samples are malicious, labeling samples with their family, hunting for new threats, and collecting malware samples. We analyze 328M VT reports for 235M samples collected for one year through the VT file feed. We use the reports to characterize the VT file feed in depth and compare it with the telemetry of a large security vendor. We answer questions such as How diverse is the feed? Does it allow building malware datasets for different filetypes? How fresh are the samples it provides? What is the distribution of malware families it sees? Does that distribution really represent malware on user devices?</p>
+<p>We then explore how to perform threat hunting at scale by investigating scalable approaches that can produce high purity clusters on the 235M feed samples. We investigate three clustering approaches: hierarchical agglomerative clustering (HAC), a more scalable HAC variant for TLSH digests (HAC-T), and a simple feature value grouping (FVG). Our results show that HAC-T and FVG using selected features produce high precision clusters on ground truth datasets. However, only FVG scales to the daily influx of samples in the feed. Moreover, FVG takes 15 hours to cluster the whole dataset of 235M samples. Finally, we use the produced clusters for threat hunting, namely for detecting 190K samples thought to be benign (i.e., with zero detections) that may really be malicious because they belong to 29K clusters where most samples are detected as malicious.</p>
+</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#3">
+              Preprint
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><!--
+
+
+<div class="alert alert-note">
+  <div>
+    Create your slides in Markdown - click the <em>Slides</em> button to check out the example.
+  </div>
+</div>
+
+-->
+<!--
+ Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+-->
+</div>
 
     
 
@@ -932,9 +1006,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/pentesting/">Pentesting</a>
-  
-  <a class="badge badge-light" href="/tag/privilege-escalation/">Privilege escalation</a>
+  <a class="badge badge-light" href="/tag/source-themes/">Source Themes</a>
   
 </div>
 
@@ -955,7 +1027,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fkevinliebergen.github.io%2Fproject%2Fpriv-escalation%2F&amp;text=Privilege&#43;escalation&#43;tool" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fkevinliebergen.github.io%2Fpublication%2Fconference-paper%2F&amp;text=A&#43;Deep&#43;Dive&#43;into%C2%A0the%C2%A0VirusTotal&#43;File&#43;Feed" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -972,7 +1044,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fkevinliebergen.github.io%2Fproject%2Fpriv-escalation%2F&amp;t=Privilege&#43;escalation&#43;tool" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fkevinliebergen.github.io%2Fpublication%2Fconference-paper%2F&amp;t=A&#43;Deep&#43;Dive&#43;into%C2%A0the%C2%A0VirusTotal&#43;File&#43;Feed" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -991,7 +1063,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Privilege%20escalation%20tool&amp;body=https%3A%2F%2Fkevinliebergen.github.io%2Fproject%2Fpriv-escalation%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=A%20Deep%20Dive%20into%C2%A0the%C2%A0VirusTotal%20File%20Feed&amp;body=https%3A%2F%2Fkevinliebergen.github.io%2Fpublication%2Fconference-paper%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1008,7 +1080,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fkevinliebergen.github.io%2Fproject%2Fpriv-escalation%2F&amp;title=Privilege&#43;escalation&#43;tool" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fkevinliebergen.github.io%2Fpublication%2Fconference-paper%2F&amp;title=A&#43;Deep&#43;Dive&#43;into%C2%A0the%C2%A0VirusTotal&#43;File&#43;Feed" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1025,7 +1097,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Privilege&#43;escalation&#43;tool%20https%3A%2F%2Fkevinliebergen.github.io%2Fproject%2Fpriv-escalation%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=A&#43;Deep&#43;Dive&#43;into%C2%A0the%C2%A0VirusTotal&#43;File&#43;Feed%20https%3A%2F%2Fkevinliebergen.github.io%2Fpublication%2Fconference-paper%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1042,7 +1114,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fkevinliebergen.github.io%2Fproject%2Fpriv-escalation%2F&amp;title=Privilege&#43;escalation&#43;tool" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fkevinliebergen.github.io%2Fpublication%2Fconference-paper%2F&amp;title=A&#43;Deep&#43;Dive&#43;into%C2%A0the%C2%A0VirusTotal&#43;File&#43;Feed" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1062,6 +1134,7 @@
 
   
   
+    
 
 
 
@@ -1175,6 +1248,25 @@
   </div>
 
 
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
@@ -1191,24 +1283,8 @@
 
 
 
-    <div class="project-related-pages content-widget-hr">
-      
-      
-
-      
-      
-      
-
-      
-      
-      
-
-      
-      
-      
-    </div>
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">

@@ -33,6 +33,27 @@
     </item>
     
     <item>
+      <title>A Deep Dive into the VirusTotal File Feed</title>
+      <link>https://kevinliebergen.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://kevinliebergen.github.io/publication/conference-paper/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+&lt;!--
+ Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Deep Dive into VirusTotal: Characterizing and Clustering a Massive File Feed</title>
       <link>https://kevinliebergen.github.io/publication/preprint/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
@@ -260,7 +281,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-269831475&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-436278519&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -270,7 +291,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-269831475&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-436278519&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
