@@ -35,7 +35,7 @@
     <item>
       <title>A Deep Dive into the VirusTotal File Feed</title>
       <link>https://kevinliebergen.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://kevinliebergen.github.io/publication/conference-paper/</guid>
       <description>&lt;!--
 
@@ -281,7 +281,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-436278519&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-819263457&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -291,7 +291,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-436278519&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-819263457&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
