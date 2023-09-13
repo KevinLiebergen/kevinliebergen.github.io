@@ -1,6 +1,6 @@
 ---
 title: Kevin van Liebergen
-role: PhD Student in system security
+role: PhD Student in security
 avatar_filename: avatar.jpg
 bio: My research interests include malware analysis, reverse engineering,
   and exploiting.
@@ -33,7 +33,7 @@ organizations:
     url: https://software.imdea.org/
 education:
   courses:
-    - course: PhD in system security
+    - course: PhD in security
       institution: IMDEA Software Institute
       year: WIP
     - course: MSc in Cybersecurity
@@ -48,7 +48,7 @@ highlight_name: true
 first_name: Kevin
 email: kevin.liebergen(at)imdea.org
 ---
-Hi! I am a computer engineer passionate about cybersecurity. I have a master in Cybersecurity at the Universidad de Alcalá and I am currently a PhD Student in system security at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
+Hi! I am a computer engineer passionate about cybersecurity. I have a master in Cybersecurity at the Universidad de Alcalá and I am currently a PhD Student in security at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
 
 My research focuses on the design, analysis, and implementation of threat hunting approaches and malware analysis. I like to play CTFs and I am really interested in exploiting, reversing, and web challenges.
 

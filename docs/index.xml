@@ -71,6 +71,39 @@
 &lt;!--
  Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 --&gt;
+&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;Cybercrime Bitcoin Revenue Estimations: Quantifying the Impact of Methodology and Coverage&amp;rdquo;
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gibrán Gómez&lt;/li&gt;
+&lt;li&gt;admin&lt;/li&gt;
+&lt;li&gt;Platon Kotzias
+date: &amp;ldquo;2022-10-31T00:00:00Z&amp;rdquo;
+doi: &amp;quot;&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
+&lt;p&gt;publishDate: &amp;ldquo;2017-01-01T00:00:00Z&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
+&lt;h1 id=&#34;legend-0--uncategorized-1--conference-paper-2--journal-article&#34;&gt;Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;&lt;/h1&gt;
+&lt;h1 id=&#34;3--preprint--working-paper-4--report-5--book-6--book-section&#34;&gt;3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;&lt;/h1&gt;
+&lt;h1 id=&#34;7--thesis-8--patent&#34;&gt;7 = Thesis; 8 = Patent&lt;/h1&gt;
+&lt;p&gt;publication_types: [&amp;ldquo;3&amp;rdquo;]&lt;/p&gt;
+&lt;h1 id=&#34;publication-name-and-optional-abbreviated-publication-name&#34;&gt;Publication name and optional abbreviated publication name.&lt;/h1&gt;
+&lt;p&gt;publication: &amp;quot;&amp;quot;
+publication_short: &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;p&gt;abstract: &amp;ldquo;Multiple works have leveraged the public Bitcoin ledger to estimate the revenue cybercriminals obtain from their victims. Estimations focusing on the same target often do not agree, due to the use of different methodologies, seed addresses, and time periods. These factors make it challenging to understand the impact of their methodological differences. Furthermore, they underestimate the revenue due to the (lack of) coverage on the target&amp;rsquo;s payment addresses, but how large this impact remains unknown.&lt;/p&gt;
+&lt;p&gt;In this work, we perform the first systematic analysis on the estimation of cybercrime bitcoin revenue. We implement a tool that can replicate the different estimation methodologies. Using our tool we can quantify, in a controlled setting, the impact of the different methodology steps. In contrast to what is widely believed, we show that the revenue is not always underestimated. There exist methodologies that can introduce huge overestimation. We collect 30,424 payment addresses and use them to compare the financial impact of 6 cybercrimes (ransomware, clippers, sextortion, Ponzi schemes, giveaway scams, exchange scams) and of 141 cybercriminal groups. We observe that the popular multi-input clustering fails to discover addresses for 40% of groups. We quantify, for the first time, the impact of the (lack of) coverage on the estimation. For this, we propose two techniques to achieve high coverage, possibly nearly complete, on the DeadBolt server ransomware. Our expanded coverage enables estimating DeadBolt&amp;rsquo;s revenue at $2.47M, 39 times higher than the estimation using two popular Internet scan engines.&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;summary-an-optional-shortened-abstract&#34;&gt;Summary. An optional shortened abstract.&lt;/h1&gt;
+&lt;h1 id=&#34;summary-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-duis-posuere-tellus-ac-convallis-placerat-proin-tincidunt-magna-sed-ex-sollicitudin-condimentum&#34;&gt;summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/h1&gt;
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Source Themes
+featured: false&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;links:&lt;/p&gt;
+&lt;h1 id=&#34;--name-custom-link&#34;&gt;- name: Custom Link&lt;/h1&gt;
+&lt;h1 id=&#34;url-httpexampleorg&#34;&gt;url: &lt;a href=&#34;http://example.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.org&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;url_pdf: &lt;a href=&#34;https://arxiv.org/abs/2309.03592v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2309.03592v1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -281,7 +314,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-812765394&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-463578291&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -291,7 +324,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-812765394&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-463578291&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
