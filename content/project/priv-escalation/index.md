@@ -1,6 +1,6 @@
 ---
 title: Privilege escalation tool
-summary: Bachelor's degree thesis titled 'Análisis de procedimientos de escalada de privilegios basado en el framework MITRE ATT&CK' for the Computer Engineering degree from the University of Alcalá. 
+summary: Bachelor's degree thesis titled 'Análisis de procedimientos de escalada de privilegios basado en el framework MITRE ATT&CK' for the Computer Engineering degree from the Universidad de Alcalá. 
 
 tags:
 - Pentesting

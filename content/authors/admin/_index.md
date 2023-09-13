@@ -46,7 +46,7 @@ superuser: true
 last_name: van Liebergen
 highlight_name: true
 first_name: Kevin
-email: kevin.liebergen@imdea.org
+email: kevin.liebergen(at)imdea.org
 ---
 Hi! I am a computer engineer passionate about cybersecurity. I have a master in Cybersecurity at the Universidad de Alcalá and I am currently a PhD Student in system security at IMDEA Software Institute under the supervision of Prof. Juan Caballero.
 
