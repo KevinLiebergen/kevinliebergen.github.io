@@ -29,8 +29,7 @@ experience:
     location: Madrid
     date_start: '2022-09-01'
     date_end: ''
-    description: |2-
-        * Conducted innovative research on cybercrime bitcoin revenue estimation methods, emphasizing methodological variations. Developed a tool replicating diverse approaches, highlighting potential overestimation risks. Analyzed payment addresses, revealing insights into cybercriminal activities. Developed techniques improving estimation accuracy, exposing existing discrepancies.
+    description: Conducted innovative research on cybercrime bitcoin revenue estimation methods, emphasizing methodological variations. Developed a tool replicating diverse approaches, highlighting potential overestimation risks. Analyzed payment addresses, revealing insights into cybercriminal activities. Developed techniques improving estimation accuracy, exposing existing discrepancies.
 
   - title: Research Intern
     company: IMDEA Software Institute
