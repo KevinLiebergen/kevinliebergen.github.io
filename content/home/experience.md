@@ -30,7 +30,7 @@ experience:
     date_start: '2022-09-01'
     date_end: ''
     description: |2-
-        * Malware Analysis
+        * Conducted innovative research on cybercrime bitcoin revenue estimation methods, emphasizing methodological variations. Developed a tool replicating diverse approaches, highlighting potential overestimation risks. Analyzed payment addresses, revealing insights into cybercriminal activities. Developed techniques improving estimation accuracy, exposing existing discrepancies.
 
   - title: Research Intern
     company: IMDEA Software Institute
@@ -48,7 +48,7 @@ experience:
     location: Madrid
     date_start: '2018-09-01'
     date_end: '2021-04-30'
-    description: Foresight reports for homomorphic encryption and anonymization networks (Deep Web, Dark Web, Dark Net). Static code analysis reports. Teaching course on networks and forensics on drones.  Knowledge about server virtualization with VMware vSphere.
+    description: Designed and delivered specialized courses on networks and forensics, with a focus on drone technology. Conducted in-depth foresight analysis on homomorphic encryption and anonymization networks, including Deep Web, Dark Web, and Dark Net, to anticipate emerging trends and technologies in the cybersecurity landscape. Generated static code analysis reports to enhance software security and identify vulnerabilities, contributing to robust and secure applications.
 
   - title: System Administrator
     company: Making Science

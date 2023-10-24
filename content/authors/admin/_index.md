@@ -50,6 +50,6 @@ email: kevin.liebergen(at)imdea.org
 ---
 Hi! I am a Ph.D. Student at IMDEA Software Institute. I am part of the security group lead by Prof. Juan Caballero. I received my M.Sc in cybersecurity from the Universidad de Alcalá (UAH). 
 
-My research focuses on the design, analysis, and implementation of threat hunting approaches and malware analysis. I like to play CTFs and I am really interested in exploiting, reversing, and web challenges.
+My research focuses on the design, analysis, and implementation of threat hunting approaches, cybercrime, specifically ransomware. I like to play CTFs and I have a genuine passion for all things IT-related.
 
 I don't pass the Turing test in the mornings.

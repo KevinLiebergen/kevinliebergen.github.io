@@ -1,6 +1,7 @@
 ---
 title: Wallapop crawler
-summary: Using Selenium library with Python
+summary: Python web crawler using the Selenium library to extract data from Wallapop's second-hand application. Automated navigation and data extraction for efficient analysis and monitoring of listings.
+
 tags:
   - Crawling
   - Selenium
