@@ -29,7 +29,7 @@ experience:
     location: Madrid
     date_start: '2022-09-01'
     date_end: ''
-    description: Conducted innovative research on cybercrime bitcoin revenue estimation methods, emphasizing methodological variations. Developed a tool replicating diverse approaches, highlighting potential overestimation risks. Analyzed payment addresses, revealing insights into cybercriminal activities. Developed techniques improving estimation accuracy, exposing existing discrepancies.
+    description: Conducted research on cybercrime bitcoin revenue estimation methods, emphasizing methodological variations. Developed a tool replicating diverse approaches, highlighting potential overestimation risks. Developed techniques improving estimation accuracy, exposing existing discrepancies.
 
   - title: Research Intern
     company: IMDEA Software Institute
@@ -47,7 +47,7 @@ experience:
     location: Madrid
     date_start: '2018-09-01'
     date_end: '2021-04-30'
-    description: Designed and delivered specialized courses on networks and forensics, with a focus on drone technology. Conducted in-depth foresight analysis on homomorphic encryption and anonymization networks, including Deep Web, Dark Web, and Dark Net, to anticipate emerging trends and technologies in the cybersecurity landscape. Generated static code analysis reports to enhance software security and identify vulnerabilities, contributing to robust and secure applications.
+    description: Design and teaching of courses on networks and forensics, with a focus on drone technology. Conducted in-depth analysis on anonymization networks (Deep Web, Dark Web, and Dark Net) and homomorphic encryption, to anticipate emerging trends and technologies in the cybersecurity landscape. Generated static code analysis reports to enhance software security and identify vulnerabilities, contributing to robust and secure applications.
 
   - title: System Administrator
     company: Making Science
