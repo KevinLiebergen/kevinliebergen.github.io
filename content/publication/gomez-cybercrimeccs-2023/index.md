@@ -54,7 +54,7 @@ abstract: Multiple works have leveraged the public Bitcoin ledger to estimate th
   coverage, possibly nearly complete, on the DeadBolt server ransomware. Our expanded
   coverage enables estimating DeadBolt's revenue at $2.47M, 39 times higher than the
   estimation using two popular Internet scan engines.
-publication: '*arXiv*'
+publication: '*Conference*'
 links:
 - name: URL
   url: https://dl.acm.org/doi/10.1145/3576915.3623094
