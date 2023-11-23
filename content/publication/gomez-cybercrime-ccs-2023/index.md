@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2023-09-13T15:01:54.093102Z'
 publication_types:
-- '0'
+- '1'
 abstract: Multiple works have leveraged the public Bitcoin ledger to estimate the
   revenue cybercriminals obtain from their victims. Estimations focusing on the same
   target often do not agree, due to the use of different methodologies, seed addresses,
