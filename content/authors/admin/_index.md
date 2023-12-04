@@ -52,4 +52,6 @@ Hi! I am a Ph.D. Student at IMDEA Software Institute. I am part of the security 
 
 My research focuses on the design, analysis, and implementation of threat hunting approaches, with a specific focus on cybercrime, particularly ransomware. I enjoy participating in CTFs and have a genuine passion for all things related to IT.
 
+My Erdös number is 4 (Juan Caballero -> Geoffrey M. Voelker -> Ronald. L. Graham -> P. Erdös).
+
 I don't pass the Turing test in the mornings.
