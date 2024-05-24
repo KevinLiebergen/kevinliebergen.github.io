@@ -2,13 +2,12 @@
 title: Kevin van Liebergen
 role: PhD Student in security
 avatar_filename: avatar.jpg
-bio: My research interests include malware analysis, reverse engineering,
-  and exploiting.
+bio: My research interests include cybercrime and Attribution Target Selection.
 interests:
-  - Malware analysis
-  - Reverse engineering
-  - Exploiting
-  - Web security
+  - Cybercrime
+  - Attribution
+  - Threat Hunting
+  - Threat Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -50,7 +49,7 @@ email: kevin.liebergen(at)imdea.org
 ---
 Hi! I am a Ph.D. Student at IMDEA Software Institute. I am part of the security group lead by Prof. Juan Caballero. I received my M.Sc in cybersecurity from the Universidad de Alcalá (UAH). 
 
-My research focuses on the design, analysis, and implementation of threat hunting approaches, with a specific focus on cybercrime, particularly ransomware. I enjoy participating in CTFs and have a genuine passion for all things related to IT.
+My research focuses on cybercrime, particularly ransom scams, attribution target selection, threat hunting, and threat intelligence approaches. I enjoy participating in CTFs and have a genuine passion for all things related to IT.
 
 My Erdös number is 4 (Juan Caballero -> Geoffrey M. Voelker -> Ronald. L. Graham -> P. Erdös).
 
