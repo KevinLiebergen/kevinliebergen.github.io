@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: kevin.liebergen(at)imdea.org
+  email: kevin.liebergen(at)imdea(dot)org
   address: 
     street: Campus Montegancedo UPM s/n
     city: Pozuelo de Alarcón

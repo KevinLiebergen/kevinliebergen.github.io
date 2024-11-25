@@ -45,7 +45,7 @@ superuser: true
 last_name: van Liebergen
 highlight_name: true
 first_name: Kevin
-email: kevin.liebergen(at)imdea.org
+email: kevin.liebergen(at)imdea(dot)org
 ---
 Hi! I am a Ph.D. Student at IMDEA Software Institute. I am part of the security group lead by Prof. Juan Caballero. I received my M.Sc in cybersecurity from the Universidad de Alcalá (UAH). 
 
