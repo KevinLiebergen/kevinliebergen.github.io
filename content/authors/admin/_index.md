@@ -53,4 +53,4 @@ My research focuses on cybercrime, particularly ransom scams, attribution target
 
 My Erdös number is 4 (Juan Caballero -> Geoffrey M. Voelker -> Ronald. L. Graham -> P. Erdös).
 
-I don't pass the Turing test in the mornings.
+I transform coffe into code, and datasets into information... Or at least I try to
