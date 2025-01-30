@@ -48,7 +48,7 @@ links:
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-# url_slides: ''
+url_slides: 'https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf'
 # url_source: '#'
 # url_video: '#'
 

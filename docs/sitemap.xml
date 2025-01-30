@@ -128,11 +128,5 @@
   </url><url>
     <loc>https://kevinliebergen.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kevinliebergen.github.io/slides/example/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kevinliebergen.github.io/slides/</loc>
-    <changefreq>weekly</changefreq>
   </url>
 </urlset>
