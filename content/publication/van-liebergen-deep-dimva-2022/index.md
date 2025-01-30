@@ -41,15 +41,15 @@ tags:
 featured: false
 
 links:
-- name: Slides
-  url: https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf
+# - name: Slides
+#   url: https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf
 # url_pdf: https://arxiv.org/pdf/2210.15973.pdf
 # url_pdf: https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-url_slides: 'https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf'
+url_slides: https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf
 # url_source: '#'
 # url_video: '#'
 
