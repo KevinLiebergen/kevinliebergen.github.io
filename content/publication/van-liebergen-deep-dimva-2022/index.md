@@ -41,10 +41,10 @@ tags:
 featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Slides
+  url: https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf
 # url_pdf: https://arxiv.org/pdf/2210.15973.pdf
-url_pdf: https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf
+# url_pdf: https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
@@ -73,7 +73,7 @@ url_slides: 'https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 <!--
