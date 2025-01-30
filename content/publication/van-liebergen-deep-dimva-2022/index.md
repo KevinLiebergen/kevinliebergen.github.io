@@ -44,6 +44,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 # url_pdf: https://arxiv.org/pdf/2210.15973.pdf
+url_pdf: https://github.com/KevinLiebergen/slides/blob/main/DIMVA_2023.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
