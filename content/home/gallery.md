@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: Gallery
-subtitle: Not everything was going to be researching..
+subtitle: Not everything was going to be research...
 
 design:
   columns: '4'
