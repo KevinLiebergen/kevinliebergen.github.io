@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Cybercrime Bitcoin Revenue Estimations: Quantifying the Impact of Methodology
-  and Coverage'
+title: 'All your (data)base are belong to us: Characterizing Database Ransom(ware) Attacks'
 subtitle: ''
 summary: ''
 authors:
-- Gibran Gomez
 - Kevin van Liebergen
+- Gibran Gomez
+- Srdjan Matic
 - Juan Caballero
 tags:
 - Computer Science - Cryptography and Security
 categories: []
-date: '2023-09-07'
+date: '2025-02-24'
 lastmod: 2023-09-13T17:01:54+02:00
 featured: false
 draft: false
@@ -31,31 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-09-13T15:01:54.093102Z'
+publishDate: '2025-02-24T15:01:54.093102Z'
 publication_types:
 - '1'
-abstract: Multiple works have leveraged the public Bitcoin ledger to estimate the
-  revenue cybercriminals obtain from their victims. Estimations focusing on the same
-  target often do not agree, due to the use of different methodologies, seed addresses,
-  and time periods. These factors make it challenging to understand the impact of
-  their methodological differences. Furthermore, they underestimate the revenue due
-  to the (lack of) coverage on the target's payment addresses, but how large this
-  impact remains unknown. In this work, we perform the first systematic analysis on
-  the estimation of cybercrime bitcoin revenue. We implement a tool that can replicate
-  the different estimation methodologies. Using our tool we can quantify, in a controlled
-  setting, the impact of the different methodology steps. In contrast to what is widely
-  believed, we show that the revenue is not always underestimated. There exist methodologies
-  that can introduce huge overestimation. We collect 30,424 payment addresses and
-  use them to compare the financial impact of 6 cybercrimes (ransomware, clippers,
-  sextortion, Ponzi schemes, giveaway scams, exchange scams) and of 141 cybercriminal
-  groups. We observe that the popular multi-input clustering fails to discover addresses
-  for 40% of groups. We quantify, for the first time, the impact of the (lack of)
-  coverage on the estimation. For this, we propose two techniques to achieve high
-  coverage, possibly nearly complete, on the DeadBolt server ransomware. Our expanded
-  coverage enables estimating DeadBolt's revenue at $2.47M, 39 times higher than the
-  estimation using two popular Internet scan engines.
-publication: '*CCS 2023*'
+abstract: We present the first systematic study of database ransom(ware) attacks, a class of attacks where attackers scan for database servers, log in by leveraging the lack of authentication or weak credentials, drop the database contents, and demand a ransom to return the deleted data. We examine 23,736 ransom notes collected from 60,427 compromised database servers over three years, and set up database honeypots to obtain a first-hand view of current attacks. Database ransom(ware) attacks are prevalent with 6K newly infected servers in March 2024, a 60% increase over a year earlier. Our honeypots get infected in 14 hours since they are connected to the Internet. Weak authentication issues are two orders of magnitude more frequent on Elasticsearch servers compared to MySQL servers due to slow adoption of the latest Elasticsearch versions. To analyze who is behind database ransom(ware) attacks we implement a clustering approach that first identifies campaigns using the similarity of the ransom notes text. Then, it determines which campaigns are run by the same group by leveraging indicator reuse and information from the Bitcoin blockchain. For each group, it computes properties such as the number of compromised servers, the lifetime, the revenue, and the indicators used. Our approach identifies that the 60,427 database servers are victims of 91 campaigns run by 32 groups. It uncovers a dominant group responsible for 76% of the infected servers and 90% of the financial impact. We find links between the dominant group, a nation-state, and a previous attack on Git repositories.
+
+publication: '*NDSS 2025*'
 links:
 - name: URL
-  url: https://dl.acm.org/doi/10.1145/3576915.3623094
+  url: https://www.ndss-symposium.org/ndss-paper/all-your-database-are-belong-to-us-characterizing-database-ransomware-attacks/
 ---
