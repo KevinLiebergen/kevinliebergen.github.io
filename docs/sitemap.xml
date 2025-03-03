@@ -14,7 +14,7 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://kevinliebergen.github.io/publication-type/0/</loc>
+    <loc>https://kevinliebergen.github.io/publication-type/1/</loc>
     <lastmod>2023-09-13T17:01:54+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -23,6 +23,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kevinliebergen.github.io/publication/gomez-cybercrime-ccs-2023/</loc>
+    <lastmod>2023-09-13T17:01:54+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinliebergen.github.io/publication/van-liebergen-dbransom-ndss-2025/</loc>
     <lastmod>2023-09-13T17:01:54+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -38,16 +42,16 @@
     <lastmod>2023-09-13T17:01:54+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://kevinliebergen.github.io/publication-type/1/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://kevinliebergen.github.io/publication/van-liebergen-deep-dimva-2022/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kevinliebergen.github.io/tag/source-themes/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinliebergen.github.io/publication-type/0/</loc>
+    <lastmod>2023-09-13T17:01:54+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kevinliebergen.github.io/publication/van-liebergen-deep-arxiv-2022/</loc>
