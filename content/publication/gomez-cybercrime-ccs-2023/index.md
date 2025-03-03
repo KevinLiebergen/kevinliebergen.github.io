@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2023-09-13T15:01:54.093102Z'
 publication_types:
-- '1'
+- '0'
 abstract: Multiple works have leveraged the public Bitcoin ledger to estimate the
   revenue cybercriminals obtain from their victims. Estimations focusing on the same
   target often do not agree, due to the use of different methodologies, seed addresses,
@@ -54,8 +54,8 @@ abstract: Multiple works have leveraged the public Bitcoin ledger to estimate th
   coverage, possibly nearly complete, on the DeadBolt server ransomware. Our expanded
   coverage enables estimating DeadBolt's revenue at $2.47M, 39 times higher than the
   estimation using two popular Internet scan engines.
-publication: '*CCS 2023*'
+publication: '*arXiv*'
 links:
 - name: URL
-  url: https://dl.acm.org/doi/10.1145/3576915.3623094
+  url: http://arxiv.org/abs/2309.03592
 ---
