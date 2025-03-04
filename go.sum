@@ -1,11 +1,4 @@
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core v0.2.1-0.20231101183355-53a94b591ea8/go.mod h1:kJwI9H8dicHQCnP8G9EvUDI+oNg/yXcGsjGjwjXuM8I=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core v0.2.1-0.20231101183733-7b61e2f369e6/go.mod h1:kJwI9H8dicHQCnP8G9EvUDI+oNg/yXcGsjGjwjXuM8I=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.1.0 h1:I0ZJdoU4iGXbrNdIk5alwUZJhb8FABh2e7grpX6ACAU=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.1.0/go.mod h1:s40UgLsWfVyCLQ2F4F3dBcNfZOXcPGld7KxsKhZdzvM=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.0 h1:WCbC3jjXAcFGUWn5W1QUk5tzNq4x4NcyqABI/s0SnWw=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.0/go.mod h1:X1mETJo6Lkv9tEgfU0UYFRiRInf0RbgW+s1RKXB4GMA=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v1.1.0 h1:3ftryJQtT+ECJZ7Xl/EQpo7xXRV9Ol9S6O58mtemdX0=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v1.1.0/go.mod h1:F7KcUWe4ekU9rMXy33pi9/d+o0PGTUJqPsYbkHRj5J8=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo v0.1.1-0.20231101183733-7b61e2f369e6/go.mod h1:ecSfomc5wqJSsZb+WuOJGMqCDxONsooRuWmIObTOpR0=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.9.0 h1:k7vB8NFZ39dWr8MHemJE+MSClGnFN7OrCBa8so/v+UA=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.9.0/go.mod h1:lt2bI75FiRLJ5Z6BnzfVtag2hBpIISLduGq6I8KkLEE=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231209203044-d31adfedd40b h1:rAluI3a9m5ZoJY5xTF7YcgA4YTJLsvPTEh6sVQhPb+o=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231209203044-d31adfedd40b/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.3.1 h1:x2rcz2S0TTfkMVyd9dhQSStUecuE4t6c7hw1IrYJYHI=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.3.1/go.mod h1:bUQKSt1XQhk60nSpI6D+MibQi6v8s7HghF5qoAtlhws=
