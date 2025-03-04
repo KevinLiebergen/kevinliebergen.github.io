@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Kevin van Liebergen</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_5d7efd5d741008f3.png</url>
+      <url>https://example.com/media/icon_hu_5d7efd5d741008f3.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://example.com/project/</link>
     </image>
     
     <item>
       <title>Privilege Escalation Tool Based on MITE ATT&amp;CK</title>
-      <link>http://localhost:1313/project/privilege_tool/</link>
+      <link>https://example.com/project/privilege_tool/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/privilege_tool/</guid>
+      <guid>https://example.com/project/privilege_tool/</guid>
       <description>&lt;p&gt;Bachelor’s degree thesis titled ‘Análisis de procedimientos de escalada de privilegios basado en el framework MITRE ATT&amp;amp;CK’ for the Computer Engineering degree from the Universidad de Alcalá.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Wallapop crawler</title>
-      <link>http://localhost:1313/project/wallapop_crawler/</link>
+      <link>https://example.com/project/wallapop_crawler/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/wallapop_crawler/</guid>
+      <guid>https://example.com/project/wallapop_crawler/</guid>
       <description>&lt;p&gt;Crawler created using the Selenium python library. Functionalities have been implemented for:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Each visited ad is sent the URL of the product to your own Telegram group.&lt;/li&gt;

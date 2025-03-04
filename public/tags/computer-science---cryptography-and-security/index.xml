@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Science - Cryptography and Security | Kevin van Liebergen</title>
-    <link>http://localhost:1313/tags/computer-science---cryptography-and-security/</link>
-      <atom:link href="http://localhost:1313/tags/computer-science---cryptography-and-security/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/computer-science---cryptography-and-security/</link>
+      <atom:link href="https://example.com/tags/computer-science---cryptography-and-security/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Science - Cryptography and Security</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_5d7efd5d741008f3.png</url>
+      <url>https://example.com/media/icon_hu_5d7efd5d741008f3.png</url>
       <title>Computer Science - Cryptography and Security</title>
-      <link>http://localhost:1313/tags/computer-science---cryptography-and-security/</link>
+      <link>https://example.com/tags/computer-science---cryptography-and-security/</link>
     </image>
     
     <item>
       <title>All your (data)base are belong to us: Characterizing Database Ransom(ware) Attacks</title>
-      <link>http://localhost:1313/publication/van-liebergen-dbransom-ndss-2025/</link>
+      <link>https://example.com/publication/van-liebergen-dbransom-ndss-2025/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/van-liebergen-dbransom-ndss-2025/</guid>
+      <guid>https://example.com/publication/van-liebergen-dbransom-ndss-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cybercrime Bitcoin Revenue Estimations: Quantifying the Impact of Methodology and Coverage</title>
-      <link>http://localhost:1313/publication/gomez-cybercrime-ccs-2023/</link>
+      <link>https://example.com/publication/gomez-cybercrime-ccs-2023/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gomez-cybercrime-ccs-2023/</guid>
+      <guid>https://example.com/publication/gomez-cybercrime-ccs-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Deep Dive into VirusTotal: Characterizing and Clustering a Massive File Feed</title>
-      <link>http://localhost:1313/publication/van-liebergen-deep-arxiv-2022/</link>
+      <link>https://example.com/publication/van-liebergen-deep-arxiv-2022/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/van-liebergen-deep-arxiv-2022/</guid>
+      <guid>https://example.com/publication/van-liebergen-deep-arxiv-2022/</guid>
       <description></description>
     </item>
     
