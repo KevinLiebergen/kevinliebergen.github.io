@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Kevin van Liebergen</title>
+    <link>https://example.com/publication_types/0/</link>
+      <atom:link href="https://example.com/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_5d7efd5d741008f3.png</url>
+      <title>0</title>
+      <link>https://example.com/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>A Deep Dive into VirusTotal: Characterizing and Clustering a Massive File Feed</title>
+      <link>https://example.com/publication/van-liebergen-deep-arxiv-2022/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/van-liebergen-deep-arxiv-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
