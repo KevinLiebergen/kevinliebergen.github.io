@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: 'Kevin van Liebergen is a Ph.D. researcher specializing in cybercrime attribution. Their work focuses on developing approaches to identify threat actor campaigns and groups behind database ransom(ware) attacks, ransomware, and phishing operations. They also design scalable threat-hunting techniques to detect seemingly benign samples that exhibit malicious behavior. Additionally, they analyze the malware landscape using VirusTotal to better understand emerging threats and attack trends.'
+      text: 'Kevin van Liebergen is a PhD student at the IMDEA Software Institute. His research focuses on malware and cybercrime and has been presented at major academic conferences such as NDSS, DIMVA, and JNIC. He holds a master`s degree in cybersecurity from the University of Alcalá and has worked as a systems administrator consultant.'
 
     design:
       columns: '1'
