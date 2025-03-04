@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Kevin van Liebergen</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kevinliebergen.github.io/post/</link>
+      <atom:link href="https://kevinliebergen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_5d7efd5d741008f3.png</url>
+      <url>https://kevinliebergen.github.io/media/icon_hu_5d7efd5d741008f3.png</url>
       <title>Blog</title>
-      <link>https://example.com/post/</link>
+      <link>https://kevinliebergen.github.io/post/</link>
     </image>
     
     <item>
       <title>Our paper on Ransom Scams has been accepted at NDSS 2025 ✅</title>
-      <link>https://example.com/post/ndss_25_acceptance/</link>
+      <link>https://kevinliebergen.github.io/post/ndss_25_acceptance/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/ndss_25_acceptance/</guid>
+      <guid>https://kevinliebergen.github.io/post/ndss_25_acceptance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beneficiary of the FPI Espada grant</title>
-      <link>https://example.com/post/fpi_beneficiary/</link>
+      <link>https://kevinliebergen.github.io/post/fpi_beneficiary/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/fpi_beneficiary/</guid>
+      <guid>https://kevinliebergen.github.io/post/fpi_beneficiary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Part of the Artifact Evaluation Committee (AEC) at Usenix 2024</title>
-      <link>https://example.com/post/aec_usenix_24/</link>
+      <link>https://kevinliebergen.github.io/post/aec_usenix_24/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/aec_usenix_24/</guid>
+      <guid>https://kevinliebergen.github.io/post/aec_usenix_24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our paper on Bitcoin Estimations has been accepted at CCS 2023 ✅</title>
-      <link>https://example.com/post/ccs_23_acceptance/</link>
+      <link>https://kevinliebergen.github.io/post/ccs_23_acceptance/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/ccs_23_acceptance/</guid>
+      <guid>https://kevinliebergen.github.io/post/ccs_23_acceptance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our paper on VirusTotal file feed has been accepted at DIMVA 2023 ✅</title>
-      <link>https://example.com/post/dimva_23_acceptance/</link>
+      <link>https://kevinliebergen.github.io/post/dimva_23_acceptance/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/dimva_23_acceptance/</guid>
+      <guid>https://kevinliebergen.github.io/post/dimva_23_acceptance/</guid>
       <description></description>
     </item>
     
