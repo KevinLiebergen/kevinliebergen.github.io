@@ -112,3 +112,10 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+
+widgets:
+  showcase:
+    design:
+      flip_alt_rows: false
+
