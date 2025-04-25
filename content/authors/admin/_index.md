@@ -45,9 +45,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0003-3454-1692
 
 interests:
-  - Cybercrime Attribution
   - CTFs (web and rev)
   - RFID
+  - AI
 
 education:
   - area: PhD in Cybercrime Attribution
