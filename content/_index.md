@@ -31,13 +31,13 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: 'Kevin van Liebergen is a PhD student at the IMDEA Software Institute. His research focuses on malware and cybercrime and has been presented at major academic conferences such as NDSS, DIMVA, and JNIC. He holds a master`s degree in cybersecurity from the University of Alcalá and has worked as a systems administrator consultant.'
+    # content:
+      # title: '📚 My Research'
+      # subtitle: ''
+      # text: 'Kevin van Liebergen is a PhD student at the IMDEA Software Institute. His research focuses on malware and cybercrime and has been presented at major academic conferences such as NDSS, DIMVA, and JNIC. He holds a master`s degree in cybersecurity from the University of Alcalá and has worked as a systems administrator consultant.'
 
-    design:
-      columns: '1'
+    # design:
+    #   columns: '1'
   - block: collection
     content:
       title: Recent Publications

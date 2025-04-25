@@ -179,9 +179,11 @@ work:
 
 ## About Me
 
-Hi! I am a Ph.D. Student at IMDEA Software Institute. I am part of the security group lead by Prof. Juan Caballero. I received my M.Sc in cybersecurity from the Universidad de Alcalá (UAH).
+I’m a PhD student at the IMDEA Software Institute, where I’m part of the software security group led by Prof. Juan Caballero. My research focuses on malware and cybercrime, particularly cybercrime attribution, ransom scams, attacker profiling, and threat intelligence. I’ve presented my work at conferences such as NDSS, DIMVA, and JNIC.
 
-My research focuses on cybercrime attribution, particularly ransom scams, attribution target selection, threat hunting, and threat intelligence approaches. I enjoy participating in CTFs and have a genuine passion for all things related to IT.
+Before joining IMDEA, I earned an M.Sc. in Cybersecurity from the Universidad de Alcalá and worked as a systems administrator consultant. Outside of academia, I enjoy participating in Capture The Flag (CTF) competitions and have a genuine passion for cybersecurity and systems.
+
+
 
 My Erdös number is 4 (Juan Caballero -> Geoffrey M. Voelker -> Ronald. L. Graham -> P. Erdös).
 
