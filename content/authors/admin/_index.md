@@ -45,10 +45,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0003-3454-1692
 
 interests:
-  - Cybercrime
-  - Attribution
-  - Threat Hunting
-  - Threat Intelligence
+  - Cybercrime Attribution
+  - CTFs (web and reversing)
+  - RFID
 
 education:
   - area: PhD in Cybercrime Attribution
@@ -182,7 +181,7 @@ work:
 
 Hi! I am a Ph.D. Student at IMDEA Software Institute. I am part of the security group lead by Prof. Juan Caballero. I received my M.Sc in cybersecurity from the Universidad de Alcalá (UAH).
 
-My research focuses on cybercrime, particularly ransom scams, attribution target selection, threat hunting, and threat intelligence approaches. I enjoy participating in CTFs and have a genuine passion for all things related to IT.
+My research focuses on cybercrime attribution, particularly ransom scams, attribution target selection, threat hunting, and threat intelligence approaches. I enjoy participating in CTFs and have a genuine passion for all things related to IT.
 
 My Erdös number is 4 (Juan Caballero -> Geoffrey M. Voelker -> Ronald. L. Graham -> P. Erdös).
 
