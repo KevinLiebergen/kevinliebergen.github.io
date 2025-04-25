@@ -46,7 +46,7 @@ profiles:
 
 interests:
   - Cybercrime Attribution
-  - CTFs (web and reversing)
+  - CTFs (web and rev)
   - RFID
 
 education:
@@ -179,7 +179,7 @@ work:
 
 ## About Me
 
-I’m a PhD student at the IMDEA Software Institute, where I’m part of the software security group led by Prof. Juan Caballero. My research focuses on malware and cybercrime, particularly cybercrime attribution, ransom scams, attacker profiling, and threat intelligence. I’ve presented my work at conferences such as NDSS, DIMVA, and JNIC.
+Hi! I’m a PhD student at the IMDEA Software Institute, where I’m part of the software security group led by Prof. Juan Caballero. My research focuses on malware and cybercrime, particularly cybercrime attribution, ransom scams, attacker profiling, and threat intelligence. I’ve presented my work at major conferences such as NDSS (San Diego, US), DIMVA (Hamburg, Germany), and JNIC (Sevilla, Spain).
 
 Before joining IMDEA, I earned an M.Sc. in Cybersecurity from the Universidad de Alcalá and worked as a systems administrator consultant. Outside of academia, I enjoy participating in Capture The Flag (CTF) competitions and have a genuine passion for cybersecurity and systems.
 
