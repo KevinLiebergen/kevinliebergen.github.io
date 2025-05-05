@@ -179,7 +179,7 @@ work:
 
 ## About Me
 
-Hi! I’m a PhD student at the IMDEA Software Institute, where I’m part of the software security group led by Prof. Juan Caballero. My research focuses on how malware and cybercrime operates at scale, measuring and characterizing online abuse, including server ransom(ware) scams, phishing kits, as well as profiling attackers. My goal is to shed light on these operations to support stronger defenses and help foster a safer digital environment. I’ve presented my work at major conferences such as NDSS (San Diego, US), DIMVA (Hamburg, Germany), and JNIC (Sevilla, Spain).
+Hi! I’m a PhD student at the IMDEA Software Institute, where I’m part of the software security group led by Prof. Juan Caballero. My research focuses on how malware and cybercrime operates at scale, measuring and characterizing online abuse, including server ransom(ware) scams, phishing kits. My goal is to shed light on these operations to support stronger defenses and help foster a safer digital environment. I’ve presented my work at major conferences such as NDSS (San Diego, US), DIMVA (Hamburg, Germany), and JNIC (Sevilla, Spain).
 
 Before joining IMDEA, I earned an M.Sc. in Cybersecurity from the Universidad de Alcalá and worked as a systems administrator consultant. Outside of academia, I enjoy participating in Capture The Flag (CTF) competitions and have a genuine passion for cybersecurity and systems.
 
