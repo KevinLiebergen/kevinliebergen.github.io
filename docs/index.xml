@@ -7,10 +7,18 @@
     <description>Kevin van Liebergen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kevinliebergen.github.io/media/icon_hu_5d7efd5d741008f3.png</url>
+      <url>https://kevinliebergen.github.io/media/icon_hu13526301098245452686.png</url>
       <title>Kevin van Liebergen</title>
       <link>https://kevinliebergen.github.io/</link>
     </image>
+    
+    <item>
+      <title>Our article `(Work-in-progress) Measuring Data Pollution in Cryptocurrency Abuse Reporting Services` has been accepted and won the best Work-in-progress paper at JNIC 2025 ✅</title>
+      <link>https://kevinliebergen.github.io/post/jnic_25_best_paper/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://kevinliebergen.github.io/post/jnic_25_best_paper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>All your (data)base are belong to us: Characterizing Database Ransom(ware) Attacks</title>
