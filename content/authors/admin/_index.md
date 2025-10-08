@@ -60,12 +60,12 @@ education:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
 
-  - area: MSc Cybersecurity
+  - area: MSc Cybersecurity, 2022
     institution: Universidad de Alcalá
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.5/4.0
 
-  - area: BSc Computer Engineering
+  - area: BSc Computer Engineering, 2020
     institution: Universidad de Alcalá
     summary: |
       GPA: 3.4/4.0
