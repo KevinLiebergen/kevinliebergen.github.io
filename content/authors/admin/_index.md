@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student in Cybercrime Characterization and Threat Intelligence
+role: Ph.D. Student in Threat Intelligence
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,7 +50,7 @@ interests:
   - AI
 
 education:
-  - area: PhD in Cybercrime Attribution
+  - area: PhD in Threat Intelligence
     institution: IMDEA Software Institute
     date_start: 2016-01-01
     date_end: 2020-12-31
