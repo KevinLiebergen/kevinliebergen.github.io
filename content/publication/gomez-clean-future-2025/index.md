@@ -15,8 +15,8 @@ authors:
 tags:
 - Computer Science - Cryptography and Security
 categories: []
-date: '2026-06-01'
-lastmod: 2026-06-01T17:01:54+02:00
+date: '2025-06-01'
+lastmod: 2025-06-01T17:01:54+02:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-06-01T15:01:54.093102Z'
+publishDate: '2025-06-01T15:01:54.093102Z'
 publication_types:
 - '1'
 abstract: Cryptocurrency abuse reporting services are a valuable data source about abusive blockchain addresses, 
