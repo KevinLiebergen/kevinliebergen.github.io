@@ -5,12 +5,20 @@
     <link>https://kevinliebergen.github.io/publication_types/1/</link>
       <atom:link href="https://kevinliebergen.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kevinliebergen.github.io/media/icon_hu13526301098245452686.png</url>
       <title>1</title>
       <link>https://kevinliebergen.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Family Ties: A Close Look at the Influence of Static Features on the Precision of Malware Family Clustering</title>
+      <link>https://kevinliebergen.github.io/publication/van-liebergen-family-ecrime-2025/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://kevinliebergen.github.io/publication/van-liebergen-family-ecrime-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>All your (data)base are belong to us: Characterizing Database Ransom(ware) Attacks</title>
